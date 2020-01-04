@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 
-# This file is only really updated when a new command is released.
+# This file is only really updated when a new command is released. Could be more organized.
 
 class help:
     def __init__(self, client):
