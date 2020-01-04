@@ -5,6 +5,8 @@ import asyncio
 import datetime
 from datetime import datetime
 
+# This code is pretty old. Probably could use an update / some more organization.
+
 class mods:
     def __init__(self, client):
         self.client = client
