@@ -63,4 +63,4 @@ if __name__ == "__main__":
             client.load_extension(extension)
         except Exception as error:
             print(f'{extension} cannot be loaded. {error}')
-    client.run('NTA3NDMyMjk5NDAzNTQyNTM5.DzuCFg.J6jZaXibF-Xw8D5Dx76ZOD4uddE')
+    client.run('TOP-SECRET-TOKEN')
