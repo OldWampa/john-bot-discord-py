@@ -4,6 +4,8 @@ import random
 import aiohttp
 import os
 
+# Most of this code is pretty old. The newest addition to this code was the "rps" command (towards the bottom). The flip command is pretty recent as well.
+
 upsidedown_lowercase = "ɐqɔpǝɟƃɥᴉɾʞlɯuodbɹsʇnʌʍxʎzƖᄅƐㄣϛ9ㄥ860"
 upsidedown_uppercase = "∀qƆpƎℲפHIſʞ˥WNOԀQɹS┴∩ΛMX⅄Z"
 
