@@ -6,6 +6,8 @@ import datetime
 from datetime import datetime
 import random
 
+# This is my development file where I test out code before I release it.
+
 class dev:
     def __init__(self, client):
         self.client = client
