@@ -4,6 +4,8 @@ from discord.utils import get
 import random
 import time
 
+# Most of these commands have been updated recently.
+
 class general:
     def __init__(self, client):
         self.client = client
