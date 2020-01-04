@@ -1,6 +1,8 @@
 import discord
 from discord.ext import commands
 
+# This file is a project that I have barely worked on and I am not sure if I will continue it.
+
 class artcomp:
     def __init__(self, client):
         self.client = client
