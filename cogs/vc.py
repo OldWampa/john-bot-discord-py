@@ -1,6 +1,8 @@
 import discord
 from discord.ext import commands
 
+# Old code but it is simple and serves it's purpose.
+
 class vc:
     def __init__(self, client):
         self.client = client
