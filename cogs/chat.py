@@ -1,6 +1,8 @@
 import discord
 from discord.ext import commands
 
+# This is a chat filter I made.
+
 bad_words = ["handbrake", "handbreak", "hand break", "hand brake"]
 good_boys = []
 
