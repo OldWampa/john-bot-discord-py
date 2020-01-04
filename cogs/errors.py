@@ -1,6 +1,8 @@
 import discord
 from discord.ext import commands
 
+# This file sends command errors to a private channel in discord.
+
 class errors:
     def __init__(self, client):
         self.client = client
