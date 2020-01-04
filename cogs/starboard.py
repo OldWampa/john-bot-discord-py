@@ -4,6 +4,8 @@ from discord.utils import get
 import time
 import asyncio
 
+# This code has been updated and organized very recently.
+
 class starboard:
     def __init__(self, client):
         self.client = client
