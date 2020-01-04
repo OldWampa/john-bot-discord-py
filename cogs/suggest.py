@@ -3,6 +3,9 @@ from discord.ext import commands
 from discord.utils import get
 #import requests
 
+# ^^^
+# The requests function was an experiment with using webhooks. This code could use some more organization.
+
 class suggest:
     def __init__(self, client):
         self.client = client
